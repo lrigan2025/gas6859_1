@@ -1,2 +1,6 @@
 # gas6859_1
-test repository
+# Working title
+**Question:** one sentence
+**Data:** name, source, link
+**Author(s):** your name(s)
+**Status:** proposal due Nov 17
